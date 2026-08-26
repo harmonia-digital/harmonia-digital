@@ -85,6 +85,26 @@ Sistema multi-agent de consultoría empresarial amb 9 agents especialitzats.
 - Informes complets de transformació digital per indústria
 - **Stack:** Python, LangGraph, OpenAI, FastAPI
 
+### 🏨 Dashboard VikBooking
+Sistema d'analítica i visualització de dades per a la gestió de reserves hoteleres.
+
+- Integració amb l'API de VikBooking per a la sincronització de reserves
+- Dashboard interactiu amb mètriques clau: ocupació, ingressos, ADR i RevPAR
+- Filtres per data, tipus d'habitació i canal de venda
+- Visualitzacions amb gràfics interactius
+- Automatització d'informes periòdics
+- **Stack:** Python, FastAPI, React, PostgreSQL
+
+### 🧠 Cervell IA per a Empresa Privada
+Sistema d'intel·ligència artificial centralitzat per a la gestió empresarial.
+
+- Assistent IA amb accés a dades internes de l'empresa
+- Integració amb múltiples fonts de dades (CRM, ERP, documents)
+- Sistema multi-agent per a diferents àrees (vendes, operacions, finances)
+- Memòria persistent de converses i decisions
+- Tool calling per a accions en temps real sobre el sistema
+- **Stack:** Python, LangGraph, OpenAI, RAG, FastAPI
+
 ### 📱 PadelSwap
 App mòbil per connectar jugadors de pàdel i organitzar partits.
 
