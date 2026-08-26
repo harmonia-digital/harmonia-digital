@@ -2,9 +2,9 @@
 
 # Albert Oliver
 
-### Harmonia Digital — IA, Automatització i Productes Digitals
+### Harmonia Digital — IA, Automatización y Productos Digitales
 
-Construeixo sistemes d'intel·ligència artificial que automatitzen processos, redueixen tasques repetitives i generen un impacte directe en la productivitat de les empreses.
+Construyo sistemas de inteligencia artificial que automatizan procesos, reducen tareas repetitivas y generan un impacto directo en la productividad de las empresas.
 
 [🌐 Web](https://www.harmoniadigitalweb.com) · [💼 LinkedIn](https://www.linkedin.com/in/albert-oliver-305198385/) · [📧 Email](mailto:admin@harmoniadigitalweb.com)
 
@@ -12,27 +12,28 @@ Construeixo sistemes d'intel·ligència artificial que automatitzen processos, r
 
 ---
 
-## 🎯 Què ofereixo
+## 🎯 Qué ofrezco
 
-Des de [Harmonia Digital](https://www.harmoniadigitalweb.com) ajudo a empreses a incorporar la IA de forma pràctica i mesurable. No faig demos: faig productes que s'usen.
+Desde [Harmonia Digital](https://www.harmoniadigitalweb.com) ayudo a empresas a incorporar la IA de forma práctica y medible. No hago demos: hago productos que se usan.
 
-| Servei | Descripció |
+| Servicio | Descripción |
 |---|---|
-| 🤖 **Sistemes Multi-Agent** | Arquitectures d'IA amb múltiples agents especialitzats que col·laboren per resoldre fluxos complexos (anàlisi, decisions, execució) |
-| 🧠 **Assistents Intel·ligents** | IA conversacional amb accés a les dades de l'empresa: CRM, documents, ERP. Respostes en temps real amb tool calling |
-| ⚡ **Automatització amb IA** | Eliminació de tasques manuals mitjançant agents que s'integren amb els sistemes existents |
-| 🏗️ **Productes SaaS** | Desenvolupament complet de productes digitals: backend, frontend, IA, deploy i manteniment |
-| 📱 **Aplicacions Mòbils** | Apps natives per a Android i iOS amb Flutter, des del disseny fins a la publicació |
-| 📈 **Transformació Digital** | Acompanyament en l'adopció d'IA: identificació d'oportunitats, roadmap i implementació |
+| 🤖 **Sistemas Multi-Agente** | Arquitecturas de IA con múltiples agentes especializados que colaboran para resolver flujos complejos (análisis, decisiones, ejecución) |
+| 🧠 **Asistentes Inteligentes** | IA conversacional con acceso a los datos de la empresa: CRM, documentos, ERP. Respuestas en tiempo real con tool calling |
+| ⚡ **Automatización con IA** | Eliminación de tareas manuales mediante agentes que se integran con los sistemas existentes |
+| 🏗️ **Productos SaaS** | Desarrollo completo de productos digitales: backend, frontend, IA, deploy y mantenimiento |
+| 📱 **Aplicaciones Móviles** | Apps nativas para Android e iOS con Flutter, desde el diseño hasta la publicación |
+| 📈 **Transformación Digital** | Acompañamiento en la adopción de IA: identificación de oportunidades, roadmap e implementación |
 
 ---
 
-## 🛠️ Tecnologies
+## 🛠️ Tecnologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LangGraph-00A67D?logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
@@ -40,115 +41,166 @@ Des de [Harmonia Digital](https://www.harmoniadigitalweb.com) ajudo a empreses a
   <img src="https://img.shields.io/badge/n8n-FF6B6B?logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-<details>
-<summary><b>📊 Veure tot el stack</b></summary>
+### 🧠 Inteligencia Artificial
 
-| Categoria | Tecnologies |
+| Tecnología | Uso |
 |---|---|
-| **IA** | OpenAI, Claude, Gemini, LangGraph, LangChain, RAG, MCP |
-| **Mobile** | Flutter, Dart, Firebase, Google Play Console, App Store Connect |
-| **Backend** | Python, FastAPI, Node.js, REST APIs, PostgreSQL, Supabase |
-| **Frontend** | React, Next.js, TypeScript, TailwindCSS |
-| **Automatització** | n8n, Zapier, Make, Webhooks |
-| **Cloud & DevOps** | Git, GitHub, Railway, Vercel, Cloudflare |
+| **OpenAI** (GPT-4o, o1) | Modelos principales para razonamiento, análisis y generación |
+| **Anthropic Claude** | Modelos alternativos para tareas de larga contextura |
+| **Google Gemini** | Modelos multimodales para visión y texto |
+| **LangGraph** | Orquestación de sistemas multi-agente con control de estado |
+| **LangChain** | Framework para chains de IA, tools y RAG |
+| **RAG** | Retrieval-Augmented Generation para consulta sobre documentos privados |
+| **MCP** | Model Context Protocol para integración de fuentes de datos externas |
+| **Tool Calling** | Funciones que la IA puede ejecutar sobre sistemas reales |
+| **IA Conversacional** | Asistentes con memoria persistente y contexto de conversación |
 
-</details>
+### 📱 Desarrollo Mobile
+
+| Tecnología | Uso |
+|---|---|
+| **Flutter** | Framework principal para apps nativas Android e iOS |
+| **Dart** | Lenguaje de programación para Flutter |
+| **Firebase** | Backend, autenticación, notificaciones push y analytics |
+| **Google Play Console** | Publicación y gestión en Android |
+| **App Store Connect** | Publicación y gestión en iOS |
+
+### ⚙️ Backend
+
+| Tecnología | Uso |
+|---|---|
+| **Python** | Lenguaje principal para IA y backend |
+| **FastAPI** | APIs REST rápidas con validación y documentación automática |
+| **Node.js** | Backend JavaScript para productos web |
+| **PostgreSQL** | Base de datos relacional principal |
+| **Supabase** | Backend-as-a-Service con PostgreSQL, auth y realtime |
+| **REST APIs** | Diseño e integración de APIs |
+
+### 🖥️ Frontend
+
+| Tecnología | Uso |
+|---|---|
+| **Next.js 14** | Framework React con App Router y Server Components |
+| **React 18** | Librería principal para interfaces de usuario |
+| **TypeScript** | Tipado estático para mayor robustez |
+| **TailwindCSS** | Estilos utility-first con diseño consistente |
+| **HTML / CSS** | Fundamentos web |
+
+### 🔧 Automatización
+
+| Tecnología | Uso |
+|---|---|
+| **n8n** | Automatización de flujos de trabajo self-hosted |
+| **Zapier** | Automatización no-code para integraciones SaaS |
+| **Make** | Automatización visual de procesos |
+| **Webhooks** | Integraciones en tiempo real entre sistemas |
+| **Integraciones API** | Conexión con CRM, ERP, calendarios y más |
+
+### ☁️ Cloud & DevOps
+
+| Tecnología | Uso |
+|---|---|
+| **Git / GitHub** | Control de versiones y repositorios |
+| **Vercel** | Deploy de aplicaciones Next.js y frontend |
+| **Railway** | Deploy de backend y APIs Python |
+| **Cloudflare** | CDN, DNS y protección |
+| **Docker** | Contenedores para despliegue consistente |
 
 ---
 
-## 🚀 Projectes
+## 🚀 Proyectos
 
-### SaaS i Plataformes
+### SaaS y Plataformas
 
 #### 🎾 [Padel Analytics](https://github.com/harmonia-digital/Padel-Analytics)
-Plataforma SaaS d'analítica esportiva per a la Lliga Catalana de Pàdel.
+Plataforma SaaS de analítica deportiva para la Lliga Catalana de Pàdel.
 
-- Sync automàtic de dades de competició: 8 categories, 200 grups, 13.500 jugadors
-- Ranking de jugadors, classificacions, calendaris i actes detallades
-- Assistent IA integrat amb tool calling per consultes en llenguatge natural
-- Alineacions col·laboratives amb compartició per WhatsApp
+- Sync automático de datos de competición: 8 categorías, 200 grupos, 13.500 jugadores
+- Ranking de jugadores, clasificaciones, calendarios y actas detalladas
+- Asistente IA integrado con tool calling para consultas en lenguaje natural
+- Alineaciones colaborativas con compartir por WhatsApp
 - **Stack:** Next.js 14, Supabase, TypeScript, TailwindCSS
 
 #### 🏨 Dashboard VikBooking
-Sistema d'analítica i visualització de dades per a la gestió de reserves hoteleres.
+Sistema de analítica y visualización de datos para la gestión de reservas hoteleras.
 
-- Integració amb l'API de VikBooking per a la sincronització de reserves
-- Dashboard interactiu amb mètriques clau: ocupació, ingressos, ADR i RevPAR
-- Filtres per data, tipus d'habitació i canal de venda
-- Automatització d'informes periòdics
+- Integración con la API de VikBooking para la sincronización de reservas
+- Dashboard interactivo con métricas clave: ocupación, ingresos, ADR y RevPAR
+- Filtros por fecha, tipo de habitación y canal de venta
+- Automatización de informes periódicos
 - **Stack:** Python, FastAPI, React, PostgreSQL
 
-### Sistemes d'IA
+### Sistemas de IA
 
 #### 🧭 [DocPilot AI](https://github.com/harmonia-digital/DocPilot-AI)
-Sistema d'intel·ligència documental multi-agent per a pimes.
+Sistema de inteligencia documental multi-agente para pymes.
 
-- Anàlisi de documents PDF empresarials en segons
-- Extracció de riscos legals, condicions financeres i oportunitats de negoci
-- Informes executius automàtics
-- Arquitectura multi-agent amb LangGraph i GPT-4o
+- Análisis de documentos PDF empresariales en segundos
+- Extracción de riesgos legales, condiciones financieras y oportunidades de negocio
+- Informes ejecutivos automáticos
+- Arquitectura multi-agente con LangGraph y GPT-4o
 - **Stack:** Python, LangGraph, OpenAI, FastAPI, RAG
 
 #### 💼 [AI Business Consultant](https://github.com/harmonia-digital/business-consultant)
-Sistema multi-agent de consultoría empresarial amb 9 agents especialitzats.
+Sistema multi-agente de consultoría empresarial con 9 agentes especializados.
 
-- Anàlisi de negoci, DAFO i identificació d'oportunitats
-- Optimització de processos i estratègies de creixement
-- Roadmap d'adopció d'IA personalitzat per indústria
-- Informes complets de transformació digital
+- Análisis de negocio, DAFO e identificación de oportunidades
+- Optimización de procesos y estrategias de crecimiento
+- Roadmap de adopción de IA personalizado por industria
+- Informes completos de transformación digital
 - **Stack:** Python, LangGraph, OpenAI, FastAPI
 
-#### 🧠 Cervell IA per a Empresa Privada
-Sistema d'intel·ligència artificial centralitzat per a la gestió empresarial.
+#### 🧠 Cerebro IA para Empresa Privada
+Sistema de inteligencia artificial centralizado para la gestión empresarial.
 
-- Assistent IA amb accés a dades internes de l'empresa (CRM, ERP, documents)
-- Sistema multi-agent per a diferents àrees: vendes, operacions, finances
-- Memòria persistent de converses i decisions
-- Tool calling per a accions en temps real sobre el sistema
+- Asistente IA con acceso a datos internos de la empresa (CRM, ERP, documentos)
+- Sistema multi-agente para diferentes áreas: ventas, operaciones, finanzas
+- Memoria persistente de conversaciones y decisiones
+- Tool calling para acciones en tiempo real sobre el sistema
 - **Stack:** Python, LangGraph, OpenAI, RAG, FastAPI
 
-### Aplicacions Mòbils
+### Aplicaciones Móviles
 
 #### 📱 PadelSwap
-App mòbil per connectar jugadors de pàdel i organitzar partits.
+App móvil para conectar jugadores de pádel y organizar partidos.
 
-- Desenvolupament amb Flutter per a Android i iOS
-- Integració amb Firebase, autenticació i gestió d'usuaris
-- Publicació i manteniment a Google Play i App Store
+- Desarrollo con Flutter para Android e iOS
+- Integración con Firebase, autenticación y gestión de usuarios
+- Publicación y mantenimiento en Google Play y App Store
 
 #### 🌍 Geo Brain Challenge
-App mòbil de geografia gamificada per a Android i iOS.
+App móvil de geografía gamificada para Android e iOS.
 
-- 190+ països amb banderes, capitals i mapes
-- Múltiples modes de joc i classificacions online
-- Sistema de logros i aprenentatge gamificat
-- Publicada a Google Play i App Store
+- 190+ países con banderas, capitales y mapas
+- Múltiples modos de juego y clasificaciones online
+- Sistema de logros y aprendizaje gamificado
+- Publicada en Google Play y App Store
 
 ---
 
-## 🎯 Actualment explorant
+## 🎯 Actualmente explorando
 
-- 🤖 Sistemes Multi-Agent i Agentic AI
+- 🤖 Sistemas Multi-Agente y Agentic AI
 - 🗣️ Voice AI
-- 🏗️ SaaS impulsats per IA
-- 📱 IA aplicada a apps mòbils
-- ⚙️ Automatització empresarial avançada
+- 🏗️ SaaS impulsados por IA
+- 📱 IA aplicada a apps móviles
+- ⚙️ Automatización empresarial avanzada
 
 ---
 
-## 💡 Com treballo
+## 💡 Cómo trabajo
 
-> La IA ha de servir per simplificar el treball de les persones, no per complicar-lo.
+> La IA debe servir para simplificar el trabajo de las personas, no para complicarlo.
 
-1. **Analitzar** — Identifico processos manuals i oportunitats d'automatització
-2. **Dissenyar** — Defineixo l'arquitectura d'IA i les integracions necessàries
-3. **Construir** — Desenvolupo el producte complet: backend, frontend, IA
-4. **Desplegar** — Poso en producció amb monitoratge i manteniment
-5. **Evolucionar** — Itero segons l'ús real i les necessitats del negoci
+1. **Analizar** — Identifico procesos manuales y oportunidades de automatización
+2. **Diseñar** — Defino la arquitectura de IA y las integraciones necesarias
+3. **Construir** — Desarrollo el producto completo: backend, frontend, IA
+4. **Desplegar** — Pongo en producción con monitorización y mantenimiento
+5. **Evolucionar** — Itero según el uso real y las necesidades del negocio
 
 ---
 
-## 🤝 Contacte
+## 🤝 Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/albert-oliver-305198385/"><img src="https://img.shields.io/badge/LinkedIn-Albert_Oliver-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -158,6 +210,6 @@ App mòbil de geografia gamificada per a Android i iOS.
 
 <div align="center">
 
-_Si vols saber com la IA pot ajudar la teva empresa, parlem._
+_Si quieres saber cómo la IA puede ayudar a tu empresa, hablemos._
 
 </div>
